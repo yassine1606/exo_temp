@@ -1,0 +1,99 @@
+.header-box {
+  height: 60vh;
+  width: 100%;
+  display: flex;
+}
+
+body {
+  margin: 0;
+}
+
+.header-div1 {
+  height: 100%;
+  width: 15%;
+  background-color: rgb(189, 93, 56);
+  color: white;
+  padding: 20px;
+  gap: 10px;
+}
+.header-div1 a {
+  text-decoration: none;
+  color: white;
+}
+.header-div1 img {
+  width: 100px;
+  border: solid 5px rgb(202, 125, 96);
+  border-radius: 50%;
+}
+
+.header-div2 {
+  height: 100%;
+  width: 85%;
+}
+
+.header-div2-1 {
+  height: 35%;
+  width: 100%;
+}
+
+.header-div2-2 {
+  height: 55%;
+  width: 100%;
+}
+
+.header-div2-2-box {
+  width: 90%;
+  margin: auto;
+  height: 100%;
+}
+.header-div2-2-box a {
+  color: rgb(189, 93, 56);
+}
+
+.span1 {
+  color: rgb(189, 93, 56);
+}
+
+.s2 {
+  margin-left: 20%;
+  margin-top: 5%;
+  height: 10vh;
+  width: 80vw;
+}
+
+.s3 {
+  width: 80vw;
+  margin: auto;
+}
+
+.d5 {
+  color: rgb(220, 171, 153);
+}
+
+.s4 {
+  margin-top: 5%;
+  height: 10vh;
+  width: 80vw;
+}
+
+#premH1 {
+  font-size: 30px;
+}
+
+i {
+  margin-left: 6px;
+  font-size: 40px;
+}
+
+.fas {
+  font-size: 10px;
+  color: rgb(153, 157, 165);
+}
+
+.syo {
+  margin-top: 400px;
+}
+
+.highDiv {
+  height: 250px;
+}
